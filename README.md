@@ -1,6 +1,6 @@
-# SQL EDA Project – Data Warehouse (Gold Layer)
+# SQL EDA Project
 
-##  Project Overview
+## Overview
 This project focuses on **Exploratory Data Analysis (EDA)** using **SQL Server** on the **Gold layer** of a Data Warehouse.  
 The objective is to understand business data by analyzing **dimensions, measures, trends, and rankings** using structured SQL queries.
 
